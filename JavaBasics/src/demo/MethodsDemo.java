@@ -19,6 +19,7 @@ public class MethodsDemo {
 	public void show()
 	{
 		System.out.println(s);
+		System.out.println("Second statement");
 		
 	}
 	
