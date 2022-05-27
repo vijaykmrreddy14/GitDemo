@@ -28,7 +28,7 @@ public class Studentcls {
 	
 	public void get()
 	{
-		
+		System.out.println("Testing")
 	}
 
 }
