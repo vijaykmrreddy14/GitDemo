@@ -21,7 +21,7 @@ public class Studentcls {
 	
 	public void play()
 	{
-		
+		System.out.println("Playing")
 	}
 	
 	
