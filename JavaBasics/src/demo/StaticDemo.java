@@ -27,6 +27,7 @@ public class StaticDemo {
 		int result = calci.Add(55,11);
 		
 		System.out.println(result);
+		System.out.println("Success");
 		
 		
 
