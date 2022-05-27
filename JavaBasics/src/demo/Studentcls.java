@@ -16,7 +16,7 @@ public class Studentcls {
 	//Abstract methods
 	public static void read()
 	{
-		
+		System.out.println("Reading")
 	}
 	
 	public void play()
